@@ -1,0 +1,3 @@
+[submodule "KnuxLib"]
+	path = KnuxLib
+	url = https://github.com/Knuxfan24/KnuxLib
